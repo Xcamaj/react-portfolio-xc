@@ -20,20 +20,20 @@ const portfolio = [
   },
   {
     title: "Taskmaster Pro",
-    description: "Taskmaster website that offers fitness training services",
+    description: "Taskmaster website that allows you organize all your tasks",
     imageLink:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OVrQeGEry0g9Xm72XU3XHGaLn5s2NrkRBf3mye8iuR5Vd6lI_89_h_6iNAP8_TCYw_w&usqp=CAU",
     liveLink: "http://github.com/",
     gitLink: "https://github.com/Xcamaj/taskmaster-pro",
   },
   {
-    title: "Project Title",
+    title: "Marvel Character Api",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque dicta cum ut excepturi omnis necessitatibus optio tempora laborum mollitia animi",
+      "Marvel website allows you to search for your favorite superhero from the marvel universe.",
     imageLink:
       "https://woz-u.com/wp-content/uploads/2021/01/woz-what-is-coding-women-in-coding-perspective.jpg",
-    liveLink: "http://github.com/",
-    gitLink: "https://github.com/",
+    liveLink: "https://github.com/sonnytedesco26/Marvel-Character-Saver",
+    gitLink: "https://github.com/sonnytedesco26/Marvel-Character-Saver",
   },
   {
     title: "Project Title",
